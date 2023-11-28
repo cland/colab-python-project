@@ -3,3 +3,4 @@ Messing around with colab, python, app runner and the whole CI/CD stuff using gi
 
 # colab:
 Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources, including GPUs and TPUs. Colab is especially well suited to machine learning, data science, and education. https://colab.research.google.com/
+Example: [notebook](https://github.com/cland/colab-python-project/blob/master/getting_started_python.ipynb)
